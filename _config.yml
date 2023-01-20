@@ -29,7 +29,7 @@ twitter_username: jekyllrb
 github_username:  noah-ku
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
