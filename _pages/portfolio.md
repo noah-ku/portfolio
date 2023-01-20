@@ -54,6 +54,7 @@ actions:
   url: "#test-link"
   btn_label: "Read More"
   btn_class: "btn--primary"
+---
 
 {% include feature_row id="intro" type="center" %}
 
@@ -64,4 +65,3 @@ actions:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
----
