@@ -28,11 +28,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  noah-ku
 
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # _portfolio
   - scope:
