@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://bit.ly/epicure-game"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
@@ -24,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://bit.ly/epicure-game"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-image-1.jpg
@@ -35,7 +35,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    url: "https://bit.ly/epicure-game"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -43,7 +43,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    url: "https://bit.ly/epicure-game"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
@@ -51,7 +51,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    url: "https://bit.ly/epicure-game"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
