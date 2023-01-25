@@ -18,6 +18,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    font-family: "Newcastle-BasicClean"
   - image_path: /assets/images/mc-spicy.jpeg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -26,9 +27,11 @@ feature_row:
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    font-family: "Newcastle-BasicClean"
   - image_path: /assets/images/mc-spicy.jpeg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    font-family: "Newcastle-BasicClean"
 feature_row2:
   - image_path: /assets/images/mc-spicy.jpeg
     alt: "placeholder image 2"
@@ -37,6 +40,7 @@ feature_row2:
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    font-family: "Newcastle-BasicClean"
 feature_row3:
   - image_path: /assets/images/mc-spicy.jpeg
     alt: "placeholder image 2"
@@ -45,6 +49,7 @@ feature_row3:
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    font-family: "Newcastle-BasicClean"
 feature_row4:
   - image_path: /assets/images/mc-spicy.jpeg
     alt: "placeholder image 2"
@@ -53,6 +58,7 @@ feature_row4:
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    font-family: "Newcastle-BasicClean"
 ---
 
 {% include feature_row id="intro" type="center" %}
