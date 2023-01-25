@@ -8,6 +8,20 @@ layout: default
 {% include page__hero_video.html %}
 {% endif %}
 
+<style>
+  @import url(../_fonts/newcastle.otf);
+  .container {
+    max-width: 1100px;
+    margin: auto;
+  }
+  a, p, ul, li, ol, li, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Newcastle-BasicClean', serif;
+  }
+  a, p, ul, li, ol, li {
+    font-size: 1.5rem;
+  }
+</style>
+
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
