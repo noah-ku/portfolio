@@ -7,19 +7,21 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
 {% include page__hero_video.html %}
 {% endif %}
-<!--<head>-->
-<!--  <style>-->
-<!--    @import url(../_fonts/newcastle.otf);-->
-
-<!--    a, p, ul, li, ol, li, h1, h2, h3, h4, h5, h6, head, body, header, tbody, table, dd, address, meta, article, div, style {-->
-<!--      font-family: 'Newcastle-BasicClean', sans-serif;-->
-<!--    }-->
-<!--    @font-face {-->
-<!--      font-family: 'newcastle', serif;-->
-<!--      src: url(/_fonts/newcastle.otf) format('otf');-->
-<!--    }-->
-<!--  </style>-->
-<!--</head>-->
+<head>
+  <style>
+    @import url(../_fonts/newcastle.ttf);
+    html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, font, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center, dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend, table,
+    caption, tbody, tfoot, thead, tr, th, td {
+      font-family: 'Newcastle-BasicClean', sans-serif;
+    }
+  </style>
+</head>
 
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
