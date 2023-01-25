@@ -1,4 +1,6 @@
 ---
+title: "Hello"
+permalink: /testing/
 ---
 
-hello
+Hello
