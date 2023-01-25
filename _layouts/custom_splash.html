@@ -7,14 +7,16 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
 {% include page__hero_video.html %}
 {% endif %}
-<style>
-  @import url(../_fonts/newcastle.otf);
+<head>
+  <style>
+    @import url(../_fonts/newcastle.otf);
 
-  html body {
-    font-family: Newcastle-BasicClean, serif;
-  }
+    a, p, ul, li, ol, li, h1, h2, h3, h4, h5, h6, head, body, header, tbody, table, dd, address, meta, article, div, style {
+      font-family: 'Newcastle-BasicClean', serif;
+    }
 
-</style>
+  </style>
+</head>
 
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
