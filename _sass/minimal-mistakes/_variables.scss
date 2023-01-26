@@ -13,20 +13,20 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: $global-font-family;
-$sans-serif: $global-font-family;
-$monospace: $global-font-family;
+$serif: $global-font-family !default;
+$sans-serif: $global-font-family !default;
+$monospace: $global-font-family !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: $global-font-family;
-$helvetica: $global-font-family;
+$sans-serif-narrow: $global-font-family !default;
+$helvetica: $global-font-family !default;
 
 /* serif typefaces */
-$georgia: $global-font-family;
-$times: $global-font-family;
-$bodoni: $global-font-family;
-$calisto: $global-font-family;
-$garamond: $global-font-family;
+$georgia: $global-font-family !default;
+$times: $global-font-family !default;
+$bodoni: $global-font-family !default;
+$calisto: $global-font-family !default;
+$garamond: $global-font-family !default;
 
 $global-font-family: 'Roboto' sans-serif;
 $header-font-family: 'Roboto' sans-serif;
