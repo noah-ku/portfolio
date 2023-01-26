@@ -28,9 +28,9 @@ $bodoni: $global-font-family !default;
 $calisto: $global-font-family !default;
 $garamond: $global-font-family !default;
 
-$global-font-family: $serif !default;
-$header-font-family: $sans-serif-narrow !default;
-$caption-font-family: $serif !default;
+$global-font-family: 'PT Sans Narrow', serif !default;
+$header-font-family: 'PT Sans Narrow', serif !default;
+$caption-font-family: 'PT Sans Narrow', serif !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
