@@ -27,6 +27,15 @@ layout: default
 <!--  </style>-->
 <!--</head>-->
 
+<style>
+  @font-face {
+    font-family: 'Newcastle';
+    src: url(../_fonts/newcastle.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+</style>
+
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
