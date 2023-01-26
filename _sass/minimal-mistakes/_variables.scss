@@ -13,12 +13,12 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: $global-font-family !default;
+$serif: "PT Serif", Georgia, Times, serif;
 $sans-serif: $global-font-family !default;
 $monospace: $global-font-family !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: $global-font-family !default;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $helvetica: $global-font-family !default;
 
 /* serif typefaces */
@@ -26,11 +26,12 @@ $georgia: $global-font-family !default;
 $times: $global-font-family !default;
 $bodoni: $global-font-family !default;
 $calisto: $global-font-family !default;
-$garamond: $global-font-family !default;
+$garamond: $newcastle !default;
+$newcastle: 'Newcastle' sans-serif !default;
 
-$global-font-family: 'Newcastle' sans-serif !default;
-$header-font-family: 'Newcastle' sans-serif !default;
-$caption-font-family: 'Newcastle' sans-serif !default;
+$global-font-family: $serif;
+$header-font-family: $sans-serif-narrow;;
+$caption-font-family: $serif;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
