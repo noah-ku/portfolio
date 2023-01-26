@@ -13,12 +13,12 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: 'Newcastle-BasicClean', sans-serif !default;
+$serif: 'PT Sans Narrow', serif !default;
 $sans-serif: $global-font-family !default;
 $monospace: $global-font-family !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif-narrow: "PT Sans Narrow", sans-serif !default;
 $helvetica: $global-font-family !default;
 
 /* serif typefaces */
