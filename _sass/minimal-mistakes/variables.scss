@@ -13,20 +13,20 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: 'Newcastle';
-$sans-serif: 'Newcastle';
-$monospace: 'Newcastle';
+$serif: 'Newcastle' !default;
+$sans-serif: 'Newcastle' !default;
+$monospace: 'Newcastle' !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: 'Newcastle';
-$helvetica: 'Newcastle';
+$sans-serif-narrow: 'Newcastle' !default;
+$helvetica: 'Newcastle' !default;
 
 /* serif typefaces */
-$georgia: 'Newcastle';
-$times: 'Newcastle';
-$bodoni: 'Newcastle';
-$calisto: 'Newcastle';
-$garamond: 'Newcastle';
+$georgia: 'Newcastle' !default;
+$times: 'Newcastle' !default;
+$bodoni: 'Newcastle' !default;
+$calisto: 'Newcastle' !default;
+$garamond: 'Newcastle' !default;
 
 $global-font-family: 'Newcastle' !default;
 $header-font-family: 'Newcastle' !default;
@@ -60,7 +60,7 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: #ff8c00 !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
