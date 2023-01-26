@@ -13,20 +13,20 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: 'Newcastle' !default;
-$sans-serif: 'Newcastle' !default;
-$monospace: 'Newcastle' !default;
+$serif: $global-font-family;
+$sans-serif: $global-font-family;
+$monospace: $global-font-family;
 
 /* sans serif typefaces */
-$sans-serif-narrow: 'Newcastle' !default;
-$helvetica: 'Newcastle' !default;
+$sans-serif-narrow: $global-font-family;
+$helvetica: $global-font-family;
 
 /* serif typefaces */
-$georgia: 'Newcastle' !default;
-$times: 'Newcastle' !default;
-$bodoni: 'Newcastle' !default;
-$calisto: 'Newcastle' !default;
-$garamond: 'Newcastle' !default;
+$georgia: $global-font-family;
+$times: $global-font-family;
+$bodoni: $global-font-family;
+$calisto: $global-font-family;
+$garamond: $global-font-family;
 
 $global-font-family: 'Newcastle' serif !default;
 $header-font-family: 'Newcastle' serif !default;
