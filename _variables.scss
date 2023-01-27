@@ -13,28 +13,24 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: 'Fredoka One', cursive;
-$sans-serif: 'Fredoka One', cursive;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+$serif: 'Fredoka One', cursive !default;
+$sans-serif: 'Fredoka One', cursive !default;
+$monospace: 'Fredoka One', cursive !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: 'Fredoka One', cursive;
-$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$sans-serif-narrow: 'Fredoka One', cursive !default;
+$helvetica: 'Fredoka One', cursive !default;
 
 /* serif typefaces */
-$georgia: Georgia, serif !default;
-$times: Times, serif !default;
-$bodoni: "Bodoni MT", serif !default;
-$calisto: "Calisto MT", serif !default;
-$garamond: Garamond, serif !default;
+$georgia: 'Fredoka One', cursive !default;
+$times: 'Fredoka One', cursive !default;
+$bodoni: 'Fredoka One', cursive !default;
+$calisto: 'Fredoka One', cursive !default;
+$garamond: 'Fredoka One', cursive !default;
 
-$global-font-family: 'Fredoka One', cursive;
-$header-font-family: 'Fredoka One', cursive;
-$caption-font-family: 'Fredoka One', cursive;
-
-body {
-  font-family: 'Fredoka One', cursive;
-}
+$global-font-family: 'Fredoka One', cursive !default;
+$header-font-family: 'Fredoka One', cursive !default;
+$caption-font-family: 'Fredoka One', cursive !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
