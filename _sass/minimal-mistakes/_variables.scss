@@ -32,6 +32,10 @@ $global-font-family: 'Fredoka One', cursive;
 $header-font-family: 'Fredoka One', cursive;
 $caption-font-family: 'Fredoka One', cursive;
 
+* {
+  font-family: 'Fredoa One', cursive;
+}
+
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
 $type-size-2: 1.953em !default; // ~31.248px
