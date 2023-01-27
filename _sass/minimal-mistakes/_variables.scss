@@ -13,24 +13,25 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: 'Fredoka One', cursive !default;
-$sans-serif: $global-font-family !default;
-$monospace: $global-font-family !default;
+$serif: Georgia, Times, serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+"Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: 'Fredoka One', cursive !default;
-$helvetica: $global-font-family !default;
+$sans-serif-narrow: $sans-serif !default;
+$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
-$georgia: $global-font-family !default;
-$times: $global-font-family !default;
-$bodoni: $global-font-family !default;
-$calisto: $global-font-family !default;
-$garamond: $global-font-family !default;
+$georgia: Georgia, serif !default;
+$times: Times, serif !default;
+$bodoni: "Bodoni MT", serif !default;
+$calisto: "Calisto MT", serif !default;
+$garamond: Garamond, serif !default;
 
-$global-font-family: 'Fredoka One', cursive !default;
-$header-font-family: 'Fredoka One', cursive !default;
-$caption-font-family: 'Fredoka One', cursive !default;
+$global-font-family: $times !default;
+$header-font-family: $times !default;
+$caption-font-family: $times !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
@@ -60,7 +61,7 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #ff8c00 !default;
+$background-color: #fff !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
