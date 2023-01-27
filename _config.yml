@@ -39,8 +39,8 @@ github_username:  noah-ku
 #      share: true
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/portfolio@4.24.0"
+#theme: portfolio-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
