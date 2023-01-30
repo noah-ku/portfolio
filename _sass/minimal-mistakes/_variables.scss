@@ -12,21 +12,23 @@ $doc-font-size: 16 !default;
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
+$default: 'Fredoka One', cursive;
+
 /* system typefaces */
-$serif: 'Fredoka One', cursive !default;
-$sans-serif: 'Fredoka One', cursive !default;
-$monospace: 'Fredoka One', cursive !default;
+$serif: $default !default;
+$sans-serif: $default !default;
+$monospace: $default !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: 'Fredoka One', cursive !default;
-$helvetica: 'Fredoka One', cursive !default;
+$sans-serif-narrow: $default !default;
+$helvetica: $default !default;
 
 /* serif typefaces */
-$georgia: 'Fredoka One', cursive !default;
-$times: 'Fredoka One', cursive !default;
-$bodoni: 'Fredoka One', cursive !default;
-$calisto: 'Fredoka One', cursive !default;
-$garamond: 'Fredoka One', cursive !default;
+$georgia: $default !default;
+$times: $default !default;
+$bodoni: $default !default;
+$calisto: $default !default;
+$garamond: $default !default;
 
 $global-font-family: 'Fredoka One', cursive !default;
 $header-font-family: 'Fredoka One', cursive !default;
