@@ -13,24 +13,24 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: 'Fredoka One', cursive !default;
-$sans-serif: 'Fredoka One', cursive !default;
-$monospace: 'Fredoka One', cursive !default;
+$serif: Times !default;
+$sans-serif: Times !default;
+$monospace: Times !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow: 'Fredoka One', cursive !default;
-$helvetica: 'Fredoka One', cursive !default;
+$sans-serif-narrow: Times !default;
+$helvetica: Times !default;
 
 /* serif typefaces */
-$georgia: 'Fredoka One', cursive !default;
-$times: 'Fredoka One', cursive !default;
-$bodoni: 'Fredoka One', cursive !default;
-$calisto: 'Fredoka One', cursive !default;
-$garamond: 'Fredoka One', cursive !default;
+$georgia: Times !default;
+$times: Times !default;
+$bodoni: Times !default;
+$calisto: Times !default;
+$garamond: Times !default;
 
-$global-font-family: 'Fredoka One', cursive !default;
-$header-font-family: 'Fredoka One', cursive !default;
-$caption-font-family: 'Fredoka One', cursive !default;
+$global-font-family: Times !default;
+$header-font-family: Times !default;
+$caption-font-family: Times !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
