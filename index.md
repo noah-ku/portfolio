@@ -26,12 +26,9 @@ feature_row:
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-[//]: # (  - image_path: /assets/images/mc-spicy.jpeg)
-
-[//]: # (    title: "Placeholder 3")
-
-[//]: # (    excerpt: "This is some sample content that goes here with **Markdown** formatting.")
+  - image_path: /assets/images/mc-spicy.jpeg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/mc-spicy.jpeg
     alt: "placeholder image 2"
