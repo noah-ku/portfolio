@@ -56,22 +56,22 @@ $h-size-6: 1em !default; // ~16px
    Colors
    ========================================================================== */
 
-$gray: #f78c6c !default;
-$dark-gray: #f78c6c !default;
-$darker-gray: #f78c6c !default;
-$light-gray: #f78c6c !default;
-$lighter-gray: #f78c6c !default;
+$gray: #fe7a15 !default;
+$dark-gray: #fe7a15 !default;
+$darker-gray: #fe7a15 !default;
+$light-gray: #fe7a15 !default;
+$lighter-gray: #fe7a15 !default;
 
 $background-color: #000000 !default;
 $code-background-color: #000000 !default;
-$code-background-color-dark: #f78c6c !default;
-$text-color: #f78c6c !default;
+$code-background-color-dark: #fe7a15 !default;
+$text-color: #fe7a15 !default;
 $muted-text-color: mix(#000, $text-color, 20%) !default;
-$border-color: #f78c6c !default;
-$form-background-color: #f78c6c !default;
-$footer-background-color: #f78c6c !default;
+$border-color: #fe7a15 !default;
+$form-background-color: #fe7a15 !default;
+$footer-background-color: #fe7a15 !default;
 
-$primary-color: #f78c6c !default;
+$primary-color: #fe7a15 !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
@@ -164,7 +164,7 @@ $right-sidebar-width-wide: 400px !default;
    Other
    ========================================================================== */
 
-$border-radius: 10px !default;
+$border-radius: 15px !default;
 $box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
 $nav-height: 2em !default;
 $nav-toggle-height: 2rem !default;
