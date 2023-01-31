@@ -7,15 +7,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: /assets/images/background3.png
-
-[//]: # (  actions:)
-
-[//]: # (    - label: "Download")
-
-[//]: # (      url: "https://github.com/mmistakes/minimal-mistakes/")
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "**I am a student at the University of California, Berkeley studying computer science. All my coding projects are listed below.**"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '![hi](/assets/images/background3.png) Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/images/mc-spicy.jpeg
     alt: "placeholder image 1"
