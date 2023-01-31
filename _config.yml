@@ -39,7 +39,7 @@ github_username:  noah-ku
 #      share: true
 
 # Build settings
-logo: "assets/images/newNoahProfileCircle.png"
+logo: "assets/images/newNoahProfileCircleLarge.png"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #theme: portfolio-jekyll
 plugins:
