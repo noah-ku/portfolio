@@ -12,7 +12,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "**I am a student at the University of California, Berkeley studying computer science. All my coding projects are listed below.**"
 intro: 
-  - excerpt: '![hi](/assets/images/background3.png) Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '![hi](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/images/mc-spicy.jpeg
     alt: "placeholder image 1"
