@@ -102,9 +102,10 @@
   }
 
   hr {
+    display: block; # ADDED LINE
     border: 0;
     border-bottom: 2px solid #fe7a15;
-    height: 0;
+    height: 1px; # MODIFIED
     margin: 2.25rem 0;
     padding: 0;
   }
