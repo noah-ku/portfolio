@@ -1,5 +1,5 @@
 ---
-title: "#**Hi, I'm Noah**"
+title: "**Hi, I'm Noah**"
 author_profile: true
 layout: custom_splash
 date: 2016-03-23T11:48:41-04:00
@@ -53,7 +53,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
+# Hello
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
