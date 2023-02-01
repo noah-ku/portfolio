@@ -23,8 +23,8 @@
 
   body {
     margin: 0 auto;
-    background: #000000 !important;
-    color: #000000 !important;
+    background: #fe7a15 !important;
+    color: #fe7a15 !important;
     font-size: 1rem;
     line-height: 1.5;
     -moz-osx-font-smoothing: grayscale;
@@ -38,7 +38,7 @@
   h4,
   h5,
   h6 {
-    color: #000000;
+    color: #fe7a15;
     line-height: 1.2;
     margin-bottom: 0.75rem;
     margin-top: 0;
@@ -70,7 +70,7 @@
 
   a,
   a:visited {
-    color: #000000;
+    color: #fe7a15;
     text-decoration: underline;
     word-wrap: break-word;
   }
@@ -86,7 +86,7 @@
   table,
   th,
   td {
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #fe7a15;
   }
 
   td,
@@ -103,7 +103,7 @@
 
   hr {
     border: 0;
-    border-bottom: 2px solid #000000;
+    border-bottom: 2px solid #fe7a15;
     height: 0;
     margin: 2.25rem 0;
     padding: 0;
@@ -219,12 +219,12 @@
   }
 
   .page__hero-caption {
-    color: #000000 !important;
-    background: #000000 !important;
+    color: #fe7a15 !important;
+    background: #fe7a15 !important;
     opacity: 1;
 
     a {
-      color: #000000 !important;
+      color: #fe7a15 !important;
     }
   }
 
