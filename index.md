@@ -28,9 +28,9 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/mc-spicy.jpeg
+  - image_path: /assets/images/epicure_background.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "Epicure"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
@@ -54,9 +54,9 @@ feature_row4:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
