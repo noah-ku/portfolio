@@ -35,8 +35,8 @@
   margin: 1.414em 0 0.5em;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  color: #fe7a15;
-  border-bottom: 1px solid #fe7a15;
+  color: #000000;
+  border-bottom: 1px solid #000000;
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -101,7 +101,7 @@
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #fe7a15;
+  color: #000000;
   font-family: $caption-font-family;
   font-size: $type-size-8;
   background: #000;
@@ -115,7 +115,7 @@
   }
 
   a {
-    color: #fe7a15;
+    color: #000000;
     text-decoration: none;
   }
 }
@@ -241,7 +241,7 @@
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 1px solid #fe7a15;
+  border-bottom: 1px solid #000000;
 
   .archive__item-title {
     margin-bottom: 0;
