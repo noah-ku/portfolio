@@ -2,6 +2,8 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+$border-color: #fe7a15
+
 #main {
   @include clearfix;
   margin-left: auto;
@@ -199,7 +201,7 @@ body {
     animation-delay: 0.25s;
 
     a {
-      color: #fff;
+      color: #fe7a15;
     }
 
     .wrapper {
@@ -215,7 +217,7 @@ body {
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
+      color: #fe7a15;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
@@ -245,7 +247,7 @@ body {
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #fff;
+  color: #fe7a15;
   font-family: $caption-font-family;
   font-size: $type-size-7;
   background: #000;
@@ -259,7 +261,7 @@ body {
   }
 
   a {
-    color: #fff;
+    color: #fe7a15;
     text-decoration: none;
   }
 }
@@ -299,7 +301,7 @@ body {
 
 .page__meta {
   margin-top: 2em;
-  color: $muted-text-color;
+  color: #fe7a15;
   font-family: $sans-serif;
   font-size: $type-size-6;
 
@@ -377,11 +379,11 @@ body {
 
 .taxonomy__title {
   margin-bottom: 0.5em;
-  color: $muted-text-color;
+  color: #fe7a15;
 }
 
 .taxonomy__count {
-  color: $muted-text-color;
+  color: #fe7a15;
 }
 
 .taxonomy__index {
@@ -414,7 +416,7 @@ body {
 .back-to-top {
   display: block;
   clear: both;
-  color: $muted-text-color;
+  color: #fe7a15;
   font-size: 0.6em;
   text-transform: uppercase;
   text-align: right;

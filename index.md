@@ -53,7 +53,6 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-# Hello
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
