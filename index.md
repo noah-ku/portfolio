@@ -30,7 +30,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/epicure_background.png
     alt: "placeholder image 2"
-    title: "Epicure"
+    title: "**Epicure**"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
