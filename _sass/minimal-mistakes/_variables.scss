@@ -13,11 +13,12 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 $default: 'Satoshi', sans-serif;
+$mono: 'Jetbrains Mono', monospace;
 
 /* system typefaces */
 $serif: $default !default;
 $sans-serif: $default !default;
-$monospace: $default !default;
+$monospace: $mono !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $default !default;
@@ -63,7 +64,7 @@ $light-gray: #fe7a15 !default;
 $lighter-gray: #fe7a15 !default;
 
 $background-color: #000000 !default;
-$code-background-color: #000000 !default;
+$code-background-color: #1b202c !default;
 $code-background-color-dark: #fe7a15 !default;
 $text-color: #fe7a15 !default;
 $muted-text-color: mix(#000, $text-color, 20%) !default;
@@ -114,7 +115,7 @@ $xing-color: #006567 !default;
 /* links */
 $link-color: mix(#000, $info-color, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-visited: mix(#fff, $link-color, 15%) !default;
+$link-color-visited: $primary-color !default;
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
