@@ -12,7 +12,7 @@ header:
 [//]: # (    - label: "Download")
 
 [//]: # (      url: "https://github.com/mmistakes/minimal-mistakes/")
-excerpt: "**I am a student at the University of California, Berkeley studying computer science.<br><br> All my school and personal projects are listed below.**"
+excerpt: "**I am a student at the University of California, Berkeley studying computer science.<br><br> All my school and personal projects are listed below.**<br><br>"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
