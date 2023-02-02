@@ -39,9 +39,9 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/mc-spicy.jpeg
+  - image_path: /assets/images/tjc_notify_mockup.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    title: "True Jesus Church Notify"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
@@ -56,12 +56,10 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-[//]: # ({% include feature_row id="intro" type="center" %})
-
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row %}
-
 {% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row %}
 
 {% include feature_row id="feature_row4" type="center" %}
