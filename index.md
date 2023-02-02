@@ -6,9 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: /assets/images/background_orange_bordered.png
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+
+[//]: # (  actions:)
+
+[//]: # (    - label: "Download")
+
+[//]: # (      url: "https://github.com/mmistakes/minimal-mistakes/")
 excerpt: "**I am a student at the University of California, Berkeley studying computer science.<br><br> All my school and personal projects are listed below.**"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
@@ -52,7 +55,8 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="intro" type="center" %}
+
+[//]: # ({% include feature_row id="intro" type="center" %})
 
 {% include feature_row id="feature_row2" type="left" %}
 
