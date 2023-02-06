@@ -6,12 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: /assets/images/background_orange_bordered.png
-
-[//]: # (  actions:)
-
-[//]: # (    - label: "Download")
-
-[//]: # (      url: "https://github.com/mmistakes/minimal-mistakes/")
 excerpt: "**I am a student at the University of California, Berkeley studying computer science.<br><br> All my school and personal projects are listed below.**<br><br>"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
@@ -34,7 +28,7 @@ feature_row2:
   - image_path: /assets/images/epicure_background.png
     alt: "placeholder image 2"
     title: "Epicure"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Epicure is a cooking simulator where players must complete fast-food orders within a certain time to earn more money. The game offers both a single-player and a multiplayer (2v2) mode. This project is published on Steam and was made with Unity and C#.'
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -42,7 +36,7 @@ feature_row3:
   - image_path: /assets/images/tjc_notify_mockup2.png
     alt: "placeholder image 2"
     title: "True Jesus Church Notify"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'TJC Notify is an iOS app that displays a live schedule and supports realtime updates. Push notifications are sent to users who are assigned specific duties. The app uses JavaScript and Firebase to run its database and authentication systems.'
     url: "https://github.com/mmistakes/minimal-mistakes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
