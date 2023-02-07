@@ -40,7 +40,7 @@ tjc-notify:
       url: "https://github.com/mmistakes/minimal-mistakes/"
       btn_label: "Read More"
       btn_class: "btn--primary"
-epicure:
+verse-rush:
     - image_path: /assets/images/epicure_background.png
       alt: "placeholder image 2"
       title: "Epicure"
@@ -61,6 +61,8 @@ feature_row4:
 {% include feature_row id="epicure" type="left" %}
 
 {% include feature_row id="tjc-notify" type="right" %}
+
+{% include feature_row id="verse-rush" type="left" %}
 
 {% include feature_row %}
 
