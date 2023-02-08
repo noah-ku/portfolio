@@ -12,15 +12,15 @@ intro:
 feature_row:
     - image_path: /assets/images/pacman.png
       alt: "pacman"
-      title: "Pacman AI (CS 188)"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+      title: "Pacman AI"
+      excerpt: "Project for CS 188<br><br>Designed different pathfinding algorithms to help Pacman find the closest dots on any random maze. Some implemented algorithms include Breadth-First Search, Depth-First Search, and A* Search."
     - image_path: /assets/images/ataxx-icon.jpeg
       alt: "ataxx"
-      title: "Ataxx AI (CS 61B)"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+      title: "Ataxx AI"
+      excerpt: "Project for CS 61B<br><br>Created an AI that can find the best moves in the 1990 game Ataxx. The bot uses minimax and alpha-beta pruning algorithms to find the best possible move within a given depth."
     - image_path: /assets/images/ants-icon.png
-      title: "Ants vs. Bees (CS 61A)"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+      title: "Ants vs. Bees"
+      excerpt: "Project for CS 61A<br><br>Developed a game based off of Plants vs. Zombies where a player must place ants on the board to prevent the bee invasion. This game uses Object-Oriented Programming to configure ant types and is written in Python."
 epicure:
     - image_path: /assets/images/epicure_background.png
       alt: "epicure"
@@ -56,7 +56,6 @@ verse-rush:
 {% include feature_row id="tjc-notify" type="right" %}
 
 {% include feature_row id="verse-rush" type="left" %}
-<br>
 <br>
 <h1>
     School Projects
