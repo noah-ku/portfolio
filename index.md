@@ -10,18 +10,18 @@ excerpt: "**I am a student at the University of California, Berkeley studying co
 intro:
 - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-    - image_path: /assets/images/mc-spicy.jpeg
+    - image_path: /assets/images/pacman.png
       alt: "placeholder image 1"
       title: "Pacman AI"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    - image_path: /assets/images/mc-spicy.jpeg
+    - image_path: /assets/images/ataxx.jpeg
       alt: "placeholder image 2"
-      title: "Ataxx"
+      title: "Ataxx AI"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
       url: "https://github.com/mmistakes/minimal-mistakes/"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: /assets/images/mc-spicy.jpeg
+    - image_path: /assets/images/ants.png
       title: "Ants"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
 epicure:
@@ -55,5 +55,5 @@ verse-rush:
 {% include feature_row id="tjc-notify" type="right" %}
 
 {% include feature_row id="verse-rush" type="left" %}
-
+<br>
 {% include feature_row %}
