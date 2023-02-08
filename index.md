@@ -12,17 +12,17 @@ intro:
 feature_row:
     - image_path: /assets/images/mc-spicy.jpeg
       alt: "placeholder image 1"
-      title: "Placeholder 1"
+      title: "Pacman AI"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
     - image_path: /assets/images/mc-spicy.jpeg
       alt: "placeholder image 2"
-      title: "Placeholder 2"
+      title: "Ataxx"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
       url: "https://github.com/mmistakes/minimal-mistakes/"
       btn_label: "Read More"
       btn_class: "btn--primary"
     - image_path: /assets/images/mc-spicy.jpeg
-      title: "Placeholder 3"
+      title: "Ants"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
 epicure:
     - image_path: /assets/images/epicure_background.png
@@ -41,18 +41,10 @@ tjc-notify:
       btn_label: "Read More"
       btn_class: "btn--primary"
 verse-rush:
-    - image_path: /assets/images/epicure_background.png
+    - image_path: /assets/images/verse-rush.png
       alt: "placeholder image 2"
-      title: "Epicure"
-      excerpt: 'Epicure is a cooking simulator where players must complete fast-food orders within a certain time to earn more money. The game offers both a single-player and a multiplayer (2v2) mode. This project is published on Steam and was made with Unity and C#.'
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-      btn_label: "Read More"
-      btn_class: "btn--primary"
-feature_row4:
-    - image_path: /assets/images/mc-spicy.jpeg
-      alt: "placeholder image 2"
-      title: "Placeholder Image Center Aligned"
-      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+      title: "Verse Rush"
+      excerpt: 'Verse Rush is a game where any Bible verse used as input will have randomly generated blanks. Players must type in the correct word to keep progressing until all blanks are filled. This game was developed in C#.'
       url: "https://github.com/mmistakes/minimal-mistakes/"
       btn_label: "Read More"
       btn_class: "btn--primary"
@@ -65,5 +57,3 @@ feature_row4:
 {% include feature_row id="verse-rush" type="left" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row4" type="center" %}
