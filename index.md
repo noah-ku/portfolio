@@ -14,14 +14,14 @@ feature_row:
       alt: "placeholder image 1"
       title: "Pacman AI"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    - image_path: /assets/images/ataxx.jpeg
+    - image_path: /assets/images/ataxx-icon.jpeg
       alt: "placeholder image 2"
       title: "Ataxx AI"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
       url: "https://github.com/mmistakes/minimal-mistakes/"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: /assets/images/ants.png
+    - image_path: /assets/images/ants-icon.png
       title: "Ants"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
 epicure:
