@@ -26,7 +26,7 @@ epicure:
       alt: "epicure"
       title: "Epicure"
       excerpt: 'Epicure is a cooking simulator where players must complete fast-food orders within a certain time to earn more money. The game offers both a single-player and a multiplayer (2v2) mode. This project is published on Steam and was made with Unity and C#.'
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://noah-ku.github.io/portfolio/epicure/"
       btn_label: "Read More"
       btn_class: "btn--primary"
 tjc-notify:
