@@ -48,12 +48,18 @@ verse-rush:
 ---
 <br>
 <h1>
-    Testing
+    Personal Projects
 </h1>
+<br>
 {% include feature_row id="epicure" type="left" %}
 
 {% include feature_row id="tjc-notify" type="right" %}
 
 {% include feature_row id="verse-rush" type="left" %}
+<br>
+<br>
+<h1>
+    School Projects
+</h1>
 <br>
 {% include feature_row %}
