@@ -34,7 +34,7 @@ tjc-notify:
       alt: "tjc-notify"
       title: "True Jesus Church Notify"
       excerpt: 'TJC Notify is an iOS app that displays a live schedule and supports realtime updates. Push notifications are sent to users who are assigned specific duties. The app uses JavaScript and Firebase to run its database and authentication systems.'
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://noah-ku.github.io/portfolio/tjc-notify"
       btn_label: "Read More"
       btn_class: "btn--primary"
 verse-rush:
@@ -42,7 +42,7 @@ verse-rush:
       alt: "verse-rush"
       title: "Verse Rush"
       excerpt: 'Verse Rush is a game where any Bible verse used as input will have randomly generated blanks. Players must type in the correct word to keep progressing until all blanks are filled. This game was developed in C#.'
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://noah-ku.github.io/portfolio/verse-rush"
       btn_label: "Read More"
       btn_class: "btn--primary"
 ---

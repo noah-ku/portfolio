@@ -17,7 +17,8 @@ Epicure is a project that I created in 2020. The game is currently being sold on
 </p>
 
 The main objective is to make as many burgers in a day as possible and earn more money in the process. Food orders are randomly generated and players must use the 5 main ingredients (buns, cheese, lettuce, tomatoes, and meat) to complete these orders. Occasionally, customers will also ask for different sodas.
-
+<br>
+<br>
 
 <p align="center">
   <img src="https://noah-ku.github.io/portfolio/assets/images/epicure-3.png?raw=true" alt="epicure-multiplayer"/>
