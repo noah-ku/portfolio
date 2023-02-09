@@ -17,7 +17,7 @@ True Jesus Church (TJC) Notify is a project that I created in 2022. It is an app
   <img src="https://noah-ku.github.io/portfolio/assets/images/tjc-notify-5.png?raw=true" width="300" height="300" alt="tjc-database"/>
 </p>
 
-TJC Notify is an iOS app written in JavaScript that allows users to see their local church schedule with realtime changes. Any updates such as swaps or substitutes will be automatically seen on everyone's phones. This is different from the original email format for previous church schedules. The app is currently in beta testing and is being used by a select few members.
+TJC Notify is an iOS app written in JavaScript that allows users to see their local church schedule with realtime changes. Any manual database updates such as swaps or substitutes will be automatically seen on everyone's phones. This is different from the original email format for previous church schedules. The app is currently in beta testing and is being used by a select few members.
 <br>
 <br>
 <br>
@@ -40,7 +40,7 @@ The schedules are currently generated on Google Sheets and sent to everyone thro
 
 ## List of Future Goals
 
-> * Swapping/Substitution features
+> * Automatic swapping/substitution
 > * Log in using Google or Facebook accounts
 > * History log to store old schedules
 > * Add Android support
