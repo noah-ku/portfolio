@@ -7,32 +7,25 @@ permalink: "/epicure"
 ---
 <iframe src="https://www.youtube.com/embed/GzQyk8itsb0" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://store.steampowered.com/widget/1291060/" width="646" height="190" frameborder="0"></iframe>
+Epicure is a project that I created in 2020. The game is currently being sold on Steam and over 60 people have purchased Epicure.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<br>
+<iframe src="https://store.steampowered.com/widget/1291060/" width="640" height="190" frameborder="0"></iframe>
 
-Jekyll requires blog post files to be named according to the following format:
+## Overview
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The main objective is to make as many burgers in a day as possible and earn more money in the process. Food orders are randomly generated and players must use the 5 main ingredients (buns, cheese, lettuce, tomatoes, and meat) to complete these orders. Occasionally, customers will also ask for different sodas.
 
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
+Another game mode that is available is The Grid. It is a 2v2 mode where two teams of two players must team up to complete a grid of orders faster than the other team. The 5x5 grid of orders is the same for all players to ensure fairness, and players must work together to complete all 25 orders as fast as possible.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## List of Notable Features
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> * All artwork, game design, and soundtracks are original
+> * Code is written in C#
+> * Game is built in Unity
+> * Implementation of Mirror Networking for multiplayer
+> * 5 different Steam Achievements
+> * A file save feature
+> * A leaderboards system
+> * Discord Rich Presence
+> * Particle effects when making burgers
