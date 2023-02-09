@@ -5,9 +5,10 @@ date:   2023-01-17 02:01:01 -0800
 categories: jekyll update
 permalink: "/epicure"
 ---
-<iframe src="https://www.youtube.com/embed/GzQyk8itsb0" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="https://store.steampowered.com/widget/1291060/" width="640" height="190" frameborder="0"></iframe>
+<p align="center">
+    <iframe src="https://www.youtube.com/embed/GzQyk8itsb0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://store.steampowered.com/widget/1291060/" width="640" height="190" frameborder="0"></iframe>
+</p>
 
 Epicure is a project that I created in 2020. The game is currently being sold on Steam and over 60 people have purchased Epicure.
 
