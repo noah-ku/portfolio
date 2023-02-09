@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: "/tjc-notify"
 ---
 <p align="center">
-  <img src="https://noah-ku.github.io/portfolio/assets/images/tjc_notify_mockup.png?raw=true" alt="tjc-mockup"/>
+  <img src="https://noah-ku.github.io/portfolio/assets/images/tjc_notify_mockup2.png?raw=true" alt="tjc-mockup"/>
 </p>
 
 True Jesus Church (TJC) Notify is a project that I created in 2022. It is an app dedicated to the members of True Jesus Church in Pacifica.
@@ -14,10 +14,11 @@ True Jesus Church (TJC) Notify is a project that I created in 2022. It is an app
 ## Overview
 
 <p align="center">
-  <img src="https://noah-ku.github.io/portfolio/assets/images/tjc-notify-4.png?raw=true" width="300" height="300" alt="tjc-database"/>
+  <img src="https://noah-ku.github.io/portfolio/assets/images/tjc-notify-5.png?raw=true" width="300" height="300" alt="tjc-database"/>
 </p>
 
 TJC Notify is an iOS app written in JavaScript that allows users to see their local church schedule with realtime changes. Any updates such as swaps or substitutes will be automatically seen on everyone's phones. This is different from the original email format for previous church schedules. The app is currently in beta testing and is being used by a select few members.
+<br>
 <br>
 <br>
 
