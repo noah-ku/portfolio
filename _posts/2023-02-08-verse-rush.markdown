@@ -14,7 +14,7 @@ Verse Rush is a project that I created in 2021. The goal of the game is to fill 
 ## Overview
 
 <p align="center">
-  <img src="https://noah-ku.github.io/portfolio/assets/images/verse-rush-1.png?raw=true" alt="epicure-single-player"/>
+  <img src="https://noah-ku.github.io/portfolio/assets/images/verse-rush-1.jpeg?raw=true" alt="epicure-single-player"/>
 </p>
 
 Players are given a few seconds to memorize the Bible verse that is projected. After the time is up, players must type in the words that belong in the blanks to keep going. Each iteration adds 5 more blanks to the verse until all the words are gone. This game is meant to be played in a classroom environment.
