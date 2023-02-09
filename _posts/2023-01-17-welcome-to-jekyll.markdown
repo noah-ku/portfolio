@@ -9,7 +9,6 @@ permalink: "/epicure"
 
 Epicure is a project that I created in 2020. The game is currently being sold on Steam and over 60 people have purchased Epicure.
 
-<br>
 <iframe src="https://store.steampowered.com/widget/1291060/" width="640" height="190" frameborder="0"></iframe>
 
 ## Overview
