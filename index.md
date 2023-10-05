@@ -5,7 +5,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
     overlay_color: "#000"
     overlay_filter: "0.0"
-    overlay_image: /assets/images/background_orange_bordered.png
+    overlay_image: /assets/images/testingnoah.png
 excerpt: "**I am a student at the University of California, Berkeley studying computer science.<br><br> All my school and personal projects are listed below.**<br><br>"
 intro:
 - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
